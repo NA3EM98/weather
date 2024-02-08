@@ -1,0 +1,85 @@
+body {
+  background-image: url(../b9a6b2f5d01762c24e2309ec37fb80a9-big-ben.jpg);
+  background-size: cover;
+  padding: 0px;
+  overflow-x: hidden;
+  margin: 0px;
+}
+a {
+  text-decoration: none !important;
+  color: white;
+}
+
+.navbar-nav a:hover {
+  border: 2px solid goldenrod;
+  border-radius: 100px;
+  color: #f09879 !important;
+}
+.mo:hover {
+  color: white !important;
+}
+.navbar img {
+  width: 64px;
+  height: 38px;
+}
+span {
+  font-size: 12px;
+  margin-top: -5px;
+}
+li {
+  margin-right: 35px;
+}
+li a {
+  color: white !important;
+}
+.active {
+  border: 2px solid goldenrod;
+  border-radius: 100px;
+  color: #f09879 !important;
+}
+input {
+  height: 60px !important;
+  margin: auto !important;
+  width: 55px !important;
+  background-color: inherit !important;
+  box-shadow: #f09879;
+}
+button {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  right: 199px;
+  top: 192px;
+  color: gold !important;
+}
+
+footer {
+  position: relative;
+}
+footer button {
+  position: absolute;
+  top: 4px;
+  left: 554px;
+}
+footer lu {
+  font-size: 32px;
+  float: right;
+}
+i {
+  color: blanchedalmond;
+}
+
+.pl {
+  background-color: inherit;
+  color: #e77f26;
+  font-size: large;
+  stroke: aquamarine;
+  stroke-width: 10px;
+  box-shadow: 10px 10px 5px #212940;
+}
+.f {
+  clear: both;
+}
+.vhk {
+  background-color: #dae10f6e;
+}
